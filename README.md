@@ -1,4 +1,4 @@
-# Vue Sample Shop
+# Online Dope Store
 
 This small demo shows how to accept payments with stripe with Vue.js using a
 serverless function. It's actually not that bad to set up! The shop also shows
